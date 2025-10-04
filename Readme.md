@@ -1,1 +1,1 @@
-# This is my new repo.
+# Learning GitHub repository setup. 
